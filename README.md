@@ -10,3 +10,6 @@
 <br>
 4.Palindrome Number,https://leetcode.com/problems/palindrome-number/description/
 </br>
+<br>
+5.Swap Nodes in Pairs,https://leetcode.com/problems/swap-nodes-in-pairs/description/
+</br>
