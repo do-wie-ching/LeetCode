@@ -7,3 +7,6 @@
 <br>
 3.String to Integer (atoi),https://leetcode.com/problems/string-to-integer-atoi/description/
 </br>
+<br>
+4.Palindrome Number,https://leetcode.com/problems/palindrome-number/description/
+</br>
