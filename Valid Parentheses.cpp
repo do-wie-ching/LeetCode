@@ -3,6 +3,7 @@ class Solution
 public:
     string tem;
     int len,top=-1,i=0;
+    stack<int> st;
   
     
     bool isValid(string s) 
@@ -14,52 +15,28 @@ public:
         while(i<s.size())
         {
             if(s[i]=='{' || s[i]=='(' || s[i]=='[')
-                push(s[i]);
+                st.push(s[i]);
             else
             {
                 switch(s[i])
                 {
                     case '}':
-                        if(tpop()!='{')
+                        if(st.empty()||st.top()!='{')
                             return false;
                             break;
                     case ')':
-                        if(tpop()!='(')
+                        if(st.empty()||st.top()!='(')
                            return false;
                            break;
                     case ']':
-                        if(tpop()!='[')
+                        if(st.empty()||st.top()!='[')
                             return false;
                             break;
                 }
-                pop();
+                st.pop();
                 
             }
             i++;
         }
-        return empty();
+        return st.empty();
     }
-    
-    void push(char data)
-    {
-        tem[++top]=data;
-    }
-    
-    char pop()
-    {
-        char a=tem[top];
-    	 top--;
-        return a;
-    }
-    
-    char tpop()
-    {
-        char a=tem[top];
-        return a;
-    }
-    
-    bool empty()
-    {   
-        return top<0;
-    }
-};
