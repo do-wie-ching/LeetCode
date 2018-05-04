@@ -25,3 +25,7 @@
 <br>
 7.Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/description/
 </br>
+
+<br>
+6.Longest Common Prefix, https://leetcode.com/problems/longest-common-prefix/description/
+</br>
