@@ -27,5 +27,5 @@
 </br>
 
 <br>
-6.Longest Common Prefix, https://leetcode.com/problems/longest-common-prefix/description/
+8.Longest Common Prefix, https://leetcode.com/problems/longest-common-prefix/description/
 </br>
