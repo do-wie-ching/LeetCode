@@ -5,7 +5,7 @@ class Solution
     public:
       string countAndSay(int n) 
      {
-            if(n==1)
+            if(n)
                 return "1";
             str=countAndSay(n-1);
             for(int i=0;i<str.length();i++)
