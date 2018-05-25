@@ -33,7 +33,3 @@
 <br>
 9.Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 </br>
-
-</br>
-10.The count-and-say\ sequence\ is\ the\ sequence\ of\ integers\ with\ the\ first\ five\ terms\ as\ following, https://leetcode.com/problems/count-and-say/description/
-</br>
