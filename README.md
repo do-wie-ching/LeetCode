@@ -33,3 +33,7 @@
 <br>
 9.Remove Duplicates from Sorted Array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 </br>
+
+<br>
+10.Remove Element,https://leetcode.com/problems/remove-element/
+</br>
