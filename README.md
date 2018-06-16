@@ -37,3 +37,7 @@
 <br>
 10.Remove Element,https://leetcode.com/problems/remove-element/
 </br>
+
+<br>
+11.Implement strStr(),https://leetcode.com/problems/implement-strstr/description/
+</br>
