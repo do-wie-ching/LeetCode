@@ -50,3 +50,6 @@
 13.Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
 </br>
 
+<br>
+14.Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/description/
+</br>
