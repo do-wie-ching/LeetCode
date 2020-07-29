@@ -53,3 +53,7 @@
 <br>
 14.Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/description/
 </br>
+
+<br>
+15.Two Sum,https://leetcode.com/problems/two-sum/
+</br>
